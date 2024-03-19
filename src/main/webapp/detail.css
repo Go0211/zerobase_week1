@@ -1,0 +1,28 @@
+html,
+body {
+  width: 100%;
+  height: auto;
+}
+table {
+  width: 30%;
+  height: auto;
+  border: 3px solid #ddd;
+  border-spacing: 0px;
+  border-style: none;
+  padding: 0px;
+  text-align: center;
+  font-weight: bold;
+  text-align: center;
+}
+table .title {
+  width: 30%;
+  height: auto;
+  background-color: #00ab6f;
+  color: white;
+}
+
+table td {
+  width: auto;
+  height: 5vh;
+  border: 1px solid #ddd;
+}

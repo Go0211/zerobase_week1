@@ -1,0 +1,30 @@
+html {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+table {
+  width: 100%;
+  height: auto;
+  border: 3px solid #ddd;
+  border-spacing: 0px;
+  border-style: none;
+  padding: 0px;
+  text-align: center;
+  font-weight: bold;
+}
+table thead {
+  background-color: #00ab6f;
+  color: white;
+}
+table tr {
+  width: 100%;
+  height: auto;
+}
+
+table td {
+  width: auto;
+  height: 5vh;
+  border: 1px solid #ddd;
+}
